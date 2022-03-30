@@ -1,6 +1,6 @@
 schemaVersion: 1
 meta:
-  sourceVersionId: ef8ed784-8b81-43b9-9c27-841c0dc525e2 # DO NOT CHANGE - Hex uses this to match up project versions when reimporting the file
+  sourceVersionId: b9b0f777-199a-44d0-829b-5c656e25adbf # DO NOT CHANGE - Hex uses this to match up project versions when reimporting the file
   description: ""
   projectId: da98abe5-c9c2-4cbf-b08a-2a950ca22fff # DO NOT CHANGE - Unique ID of the project from which this file was generated
   title: my new project
@@ -12,7 +12,7 @@ cells:
     cellLabel: null
     cellType: MARKDOWN
     config:
-      source: Hello Jordan, Meeri and Marston!
+      source: Hello Chime 👋
   - cellId: a6a8f1b3-ec9f-4280-b93d-9bd50edbb426 # DO NOT CHANGE - Hex uses this to match up cells when reimporting the file, and detect any changes to existing cells
     cellLabel: null
     cellType: SQL
@@ -36,4 +36,12 @@ appLayout:
     - CATEGORIES
     - STATUS
     - TABLE_OF_CONTENTS
-  rows: []
+  rows:
+    - columns:
+        - start: 0
+          end: 120
+          elements:
+            - type: CELL
+              cellId: 8bccc88d-48d9-4ff3-a0f4-fd35a1901b6a
+              height: null
+              showLabel: true
